@@ -1,0 +1,2 @@
+#ifndef CALCULATEDATA_h
+#define CALCULATEDATA_h
